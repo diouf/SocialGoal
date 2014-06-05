@@ -4,5 +4,3 @@ added a file onto this repository
 than added another line for 2nd change commit
 
 3rd editing
-
-4th editing
