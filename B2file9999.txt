@@ -1,4 +1,8 @@
 asdasdasa
 
+<<<<<<< HEAD
 
-dddd
+dddd999999999999999
+=======
+67hhhh  kkkkkkkkkkk
+>>>>>>> branch2
